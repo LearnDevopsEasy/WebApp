@@ -19,4 +19,4 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/ravilogi70790590459/AgileProject
             azure-pipeline-name: 'WebApplication7'
-            azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
+            azure-devops-token: ${{ secrets.TEST }}
